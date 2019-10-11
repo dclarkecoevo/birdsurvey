@@ -1,6 +1,9 @@
-#Hey this is actually an R file
 
-y<-2+2
+# Analyze bird counts
+
+Read data file
+
+Run analysis
 
 
 
