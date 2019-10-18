@@ -8,4 +8,6 @@ Run analysis
 
 Make table
 
+small figure
+
 
