@@ -10,4 +10,6 @@ Make table
 
 small figure
 
+New bigger figure that is awesome
+
 
